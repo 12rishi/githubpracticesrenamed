@@ -11,4 +11,5 @@ git reset --soft commmitId:only moves the HEAD to that commitID
 
 
 
+
 ```
