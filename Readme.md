@@ -8,6 +8,7 @@ git mv filename newfilename: to rename the file //file should be present at stag
 git rm filename :to remove the filename //file should be present in staging area and should be commited
 git reset --hard commitId: moves the HEAD to that specific commit id,sync the directory to that stage during the time of that specific commit and clear the staging area
 git reset --soft commmitId:only moves the HEAD to that commitID
+git config --global alias.aliasName "git command":now we can call git aliasNAme to run particular git command
 
 
 
