@@ -15,6 +15,7 @@ git merge branchname:to merge the branch whose branchname is provided with the c
 git branch -d branchname:to delete the branch
 git tag -a tagname -m "message":to create a annotated tag with message.
 git pull: to sync the changes that has been made from remote repo
+git remote set-url origin link:to change the link
 
 
 
