@@ -13,7 +13,7 @@ git checkout -b branchname:to create branch and switched to that branch
 git branch: to find in which branch you are currently at
 git merge branchname:to merge the branch whose branchname is provided with the currently working branch
 git branch -d branchname:to delete the branch
-git tag -a tagname -m "message":to create a annotated tag with message
+git tag -a tagname -m "message":to create a annotated tag with message.
 
 
 
